@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boulangersheep-crypto.github.io/matka420sm-net-docs/sitemap.xml
